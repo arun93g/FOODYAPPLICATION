@@ -1,4 +1,4 @@
-# Foody
+# FOODYAPPLICATION
  
 -This is food ordering app in which first a signup or login page is show to user and after the successfull login by the user a detail form is shown to user in which user can fill his name address phone number and email id. 
 
